@@ -1,0 +1,45 @@
+*{
+    font-family: Helvetica;
+}
+.title{
+    background-image: url('./image1.jpeg');
+    background-size: cover;
+    margin: 60px auto;
+    text-align: center;
+    font-size: 100px;
+    color:khaki;
+    font-weight: bold;
+}
+
+h2{
+    background-color:mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 10px 0;
+    
+}
+figure{
+    margin: 20px 0px 0px 0px;
+}
+img{
+    height: 250px;
+    width: 250px;   
+}
+figcaption{
+     padding: 20px 0px 0px 0px; 
+    font-weight: bold;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.frame{
+    margin: 20px 0;
+    background-color:lightcoral;
+}
+.paint{
+    margin: 20px 0;
+    background-color: skyblue;
+}
